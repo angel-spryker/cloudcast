@@ -1,8 +1,6 @@
 # 🛸 Cloudcast: the Alien siege 
 ## A story of rapid delivery with Spryker Cloud ☁️
 
-*This is the story arc for a Cloud keynote @ Excite 2023*
-
 ### Summary
 
 In a parallel universe, UFO sightings and crashed ships in Antarctica have become common news. Cristina, Rome's best Spryker technology developer, leads a simple life until September 14th, when aliens attack Rome, targeting military data centers.
